@@ -1,0 +1,1 @@
+command : npm init : to initialize the new node project (this will creates package.json file)
